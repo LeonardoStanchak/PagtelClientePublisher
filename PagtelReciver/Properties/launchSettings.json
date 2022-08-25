@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PagtelConsumer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

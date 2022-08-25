@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EntregaConsumer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
